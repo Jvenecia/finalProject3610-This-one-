@@ -1,0 +1,104 @@
+body{
+	background: #000000 ;
+    font-family: 'Heebo', sans-serif;
+}
+a.navbar-brand{
+	color: #FF1654;
+	font-size: 2rem;
+    font-family: 'Iceberg', cursive;
+}
+a.nav-link{
+	color: #FFFFFF;
+	font-size: 1.4rem;
+	font-family: 'Iceberg', cursive;
+}
+a.nav-link:hover{
+	color:#FF1654;
+}
+a.vergil{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 200;
+    font-size: 1rem;
+}
+h1.display-2{
+	color: #FFFFFF;
+	font-weight: 100;
+	font-size: 4rem;
+}
+div.head{
+    text-align: center;
+}
+div.nav{
+	background-color: #221E22 ;
+}
+p{
+    color: #FFFFFF;
+
+}
+p.leftSide{
+    display:inline;
+    position:relative;
+    top: 25%;
+    left: 7%;
+}
+p.rightSide{
+    display:inline;
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+
+button.Dante{
+    background-color: #FF1654;
+    color:#FFFFFF;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+    padding: 10px 25px;
+}
+div.danteDiv{
+    display: flex;
+    justify-content: center;
+}
+div.signIn{
+    background-color: #221E22;
+    color: #FFFFFF;
+    
+}
+div.form-floating{
+    color: #000;
+}
+div.buttonCenterer{
+    text-align: center;
+}
+p.card-text{
+    color: #000;
+}
+div.apple{
+    text-align: center;
+}
+div.pear{
+    background-color:#221E22;
+    color: white;
+}
+p.e{
+    color: white;
+}
+a.a{
+    color: #FF1654;
+}
+div.prof{
+    width: 40px;
+    height: 40px;
+    background: lightgray;
+    border-radius: 100%;
+    align-self: center;
+    justify-self: end;
+}
+p.namePlace{
+    color: white;
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    left: 100px;
+}
